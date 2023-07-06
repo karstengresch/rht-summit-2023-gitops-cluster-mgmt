@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
-    text: (Event Information)
+    href: https://landscape.cncf.io/card-mode?category=certified-kubernetes-distribution&grouping=category&sort=first-commit
+    text: (CNCF Certified Distribution)
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: OpenShift: K8s to the Max :D
