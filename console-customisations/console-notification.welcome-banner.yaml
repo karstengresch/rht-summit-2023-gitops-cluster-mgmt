@@ -9,4 +9,5 @@ spec:
     href: https://landscape.cncf.io/card-mode?category=certified-kubernetes-distribution&grouping=category&sort=first-commit
     text: (CNCF Certified Distribution)
   location: BannerTop
-  text: 'OpenShift: K8s to the Max :D'
+  text: 'Hello Argo CD!'
+# OpenShift: K8s to the Max :D
