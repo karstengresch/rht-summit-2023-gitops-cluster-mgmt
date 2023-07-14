@@ -9,5 +9,5 @@ spec:
     href: https://landscape.cncf.io/card-mode?category=certified-kubernetes-distribution&grouping=category&sort=first-commit
     text: '(CNCF)'
   location: BannerTop
-  text: 'K8s Certified'
+  text: 'Hello Friday!'
 # OpenShift: Hello Argo CD!
